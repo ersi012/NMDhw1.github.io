@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Pizza",
+        "type": "Italian",
+        "calories": 285,
+        "ingredients": ["dough", "tomato sauce", "cheese", "pepperoni"]
+    },
+
+    {
+        "name": "Sushi",
+        "type": "Japanese",
+        "calories": 200,
+        "ingredients": ["rice", "raw fish", "seaweed", "soy sauce"]
+
+    },
+
+    {
+        "name": "Salad",
+        "type": "Vegetarian",
+        "calories": 150,
+        "ingredients": ["lettuce", "tomato", "cucumber", "dressing"]
+    },
+
+    {
+        "name": "Burger",
+        "type": "American",
+        "calories": 400,
+        "ingredients": ["beef patty", "lettuce", "tomato", "cheese", "ketchup"]
+    },
+
+    {
+        "name": "Pasta",
+        "type": "Italian",
+        "calories": 350,
+        "ingredients": ["spaghetti", "tomato sauce", "meatballs", "parmesan"]
+
+    }
+]
